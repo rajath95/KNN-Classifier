@@ -1,3 +1,3 @@
 # KNN-Classifier
 
-A Font Classifier making use of KNN Classification to classify different images of numbers
+An Image Classifier making use of K Nearest Neighbors algorithm to classify different images of numbers.
